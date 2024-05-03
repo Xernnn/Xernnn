@@ -6,7 +6,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn,html,CSS,js,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn,html,css,js,unity)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
