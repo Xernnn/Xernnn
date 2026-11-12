@@ -1,30 +1,28 @@
-# Hi, I'm Nguyen Son (Xern)! 👋
+# hey, i'm Son Nguyen ☕
 
-🚀 I am an ambitious student simultaneously pursuing dual degrees in Data Science and Computer Science at USTH and UoPeople, both with a GPA exceeding 3.0. My passion extends beyond conventional tech; I am captivated by the creative aspects like digital art and UX design, exploring how technology can enhance aesthetic and user experience.
+data scientist in the making, slowly figuring it out in Sydney (UTS).
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Xernnn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+somewhere between assignments i got a little obsessed with optimizing my own life. then AI got so good at writing code that it's honestly kind of wtf, so instead of hunting for the perfect app i just make my own now. they're mostly small, local-first, a bit overkill, and used every day by an audience of exactly one (me).
 
-## Tech Stack
+### stuff i made for myself lately
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn,html,css,js,unity)](https://skillicons.dev)
+- **xrncal** · my calendar, lunar dates included
+- **xrnikey** · a vietnamese + english keyboard for linux
+- **xrntube** · youtube minus the channels i don't want
+- **xrnsocial** · social media with the doomscroll bits switched off
+- **xrnmoni** · where did my day actually go
+- **xrnhome** · what's in the fridge and what needs restocking
+- **xrnchips** · poker night without the chips
+- **instacover** · a little "day N" cover every morning
 
-## 🌱 Currently Exploring
+### before all that
 
-- 🎨 Mastering UX Design through the innovative course offered by Google and Coursera.
-- 🕹️ Developing games using Unity 3D, blending coding skills with creativity.
-- 🛠️ Skilled in various design and development tools, including Blender, Figma, and Photoshop.
-- 🧠 Deepening my knowledge in Data Science, with a focus on Deep Learning and Computer Vision.
-- 🐍 Versatile in Python, crafting applications using Django, creating music with music-py, and developing GUIs with tkinter.
+notebooks, models and coursework from my data science days at USTH: CaloCam (food segmentation from photos), bioactivity prediction with siamese nets, and stock forecasting with ARIMA and LSTMs.
 
- ## 🏆 Achievements
- 
-- 🌍 Actively participated in numerous contests and hackathons, both online and offline.
-- 🥈 Achieved Second Prize at the USTH Inno-Inspiration 2024, a tech start-up contest at my university.
-- 📊 Earned the Google Data Analytics Professional Certificate.
+![Son's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xernnn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 📬 Get in Touch
+**currently:** probably building another app instead of doing the thing the last app was supposed to help with.
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/nguyen-sonn/)
-- Or chat with me on [Facebook](https://www.facebook.com/Xernnnnn/)
+### say hi
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+[linkedin](https://www.linkedin.com/in/nguyen-sonn/) · [facebook](https://www.facebook.com/Xernnnnn/)
